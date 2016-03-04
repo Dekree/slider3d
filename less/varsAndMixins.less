@@ -1,0 +1,7 @@
+.loc(@x: 0, @y: 0, @z: 0, @deg: 0deg) {
+	transform: perspective(900px) rotate3d(@x, @y, @z, @deg);
+}
+.loc2(@x: 0, @y: 0, @z: 0, @deg: 0deg, @l: 0, @t: 0) {
+	transform: rotate3d(@x, @y, @z, @deg);
+	transform-origin: @l @t;
+}
