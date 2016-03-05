@@ -23,7 +23,7 @@ Load jQuery(1.7+) and include slider3d plugin files
 ```
 
 ### 2.Set up your HTML and Width and Height styles for it
-You don't need any special markup. All you need is to create a container element <div class="your_class_name"> or <div id="your_id_name">.
+You don't need any special markup. All you need is to create a container element '<div class="your_class_name">' or '<div id="your_id_name">'.
 
 
 ```html
